@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1043447585007",
+    "project_id": "flight-plus-f22f1",
+    "storage_bucket": "flight-plus-f22f1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1043447585007:android:1693f67d46732aa801631a",
+        "android_client_info": {
+          "package_name": "com.reactnativefirebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_Jf1Z5XYdfyicgcYxIRp8XOS9e5lhQnI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
